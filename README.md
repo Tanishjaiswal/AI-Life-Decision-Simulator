@@ -2,7 +2,7 @@
 
 An AI-powered decision-making chatbot that helps users analyze life choices and receive structured guidance in real time.
 
-Built using Flask, Groq API, HTML, CSS, and JavaScript.
+Built using Flask, Groq API, HTML, CSS.
 
 ---
 
